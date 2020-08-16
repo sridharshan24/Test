@@ -6,3 +6,5 @@ git push
  pop up will appear for seeking credentials
 
 At last changes are pushed.
+
+Git pull -- to fetch and update the local repository with the remote.
