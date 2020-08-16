@@ -1,0 +1,8 @@
+git init
+git status
+git add "file names"
+git commit -m "commit message"
+git push
+ pop up will appear for seeking credentials
+
+At last changes are pushed.
